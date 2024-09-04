@@ -25,12 +25,13 @@
 * 01.GLOBAL STYLE
 * ----------------------------------------------------------------------------------------
 */
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,600,700|Rubik:400,600,700");
+/*@import url("https://fonts.googleapis.com/css?family=Poppins:400,600,700|Rubik:400,600,700");*/
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:400,600,700");
 body {
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
-  font-family: "Rubik", sans-serif;
+  font-family: "Urbanist", sans-serif;
   color: #788487;
   position: relative;
 }
@@ -67,7 +68,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Urbanist", sans-serif;
   font-weight: 600;
   margin-bottom: 0px;
   /* color: #232323; */
