@@ -628,7 +628,7 @@ ul.dropdown-menu li {
 }
 
 .banner-3 {
-  background: url("../images/banner/banner-bg.jpg");
+  background: url("../images/banner/group-multinational.jpg");
   background-size: cover;
   position: relative;
 }
@@ -866,7 +866,7 @@ HISTORY MISSION
   SERVICE AREA SECTION
 ----------------------*/
 .page-banner-area.page-service {
-  background: url("../images/bg/bg-2.jpg") no-repeat;
+  background: url("../images/bg/banner2.jpg") no-repeat;
   background-size: cover;
 }
 
